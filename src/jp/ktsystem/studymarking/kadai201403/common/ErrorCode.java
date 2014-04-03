@@ -1,10 +1,10 @@
 package jp.ktsystem.studymarking.kadai201403.common;
 
 /**
- * ƒGƒ‰[ƒR[ƒh
+ * ï¿½Gï¿½ï¿½ï¿½[ï¿½Rï¿½[ï¿½h
  * @author yuichi
  * @since 2014/03/09
  */
 public enum ErrorCode {
-
+  ERROR_NULL_OR_EMPTY
 }
