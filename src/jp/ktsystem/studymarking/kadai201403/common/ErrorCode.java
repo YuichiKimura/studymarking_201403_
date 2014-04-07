@@ -1,7 +1,8 @@
 package jp.ktsystem.studymarking.kadai201403.common;
 
 /**
- * ï¿½Gï¿½ï¿½ï¿½[ï¿½Rï¿½[ï¿½h
+ * <h1>ƒGƒ‰[ƒR[ƒh</h1>
+ *
  * @author yuichi
  * @since 2014/03/09
  */
