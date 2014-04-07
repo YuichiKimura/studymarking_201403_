@@ -1,5 +1,7 @@
 package jp.ktsystem.studymarking.kadai201403.common;
 
+// EditはForkになるのではなかろうか。
+
 /**
  * �G���[�R�[�h
  * @author yuichi
