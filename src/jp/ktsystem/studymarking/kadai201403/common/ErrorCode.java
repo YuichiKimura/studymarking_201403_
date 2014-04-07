@@ -1,7 +1,7 @@
 package jp.ktsystem.studymarking.kadai201403.common;
 
 /**
- * �G���[�R�[�h
+ * <h1>エラーコード。2</h1>
  * @author yuichi
  * @since 2014/03/09
  */
