@@ -8,5 +8,6 @@ package jp.ktsystem.studymarking.kadai201403.common;
  */
 public enum ErrorCode {
   ERROR_NULL_OR_EMPTY,
-  ERROR_INVALID_STRING
+  ERROR_INVALID_STRING,
+  ERROR_CONTROL
 }
